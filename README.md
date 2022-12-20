@@ -5,7 +5,7 @@ Om## BACA DULU BANG
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://id.pinterest.com/pin/588775351302946513" alt="ALPHA BOT" width="100"/>
+<img src="https://i.pinimg.com/564x/a1/c0/a3/a1c0a3bebcd2d41e48ed5f7e4fcd93c1.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
