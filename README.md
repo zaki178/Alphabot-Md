@@ -1,11 +1,11 @@
-## BACA DULU BANG
+Om## BACA DULU BANG
 
 > **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeone-ofc/Alphabot-Md#For-Termux)
 
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://id.pinterest.com/pin/588775351302946513#imgViewer" alt="ALPHA BOT" width="100"/>
+<img src="https://id.pinterest.com/pin/588775351302946513" alt="ALPHA BOT" width="100"/>
 
 
 </p>
