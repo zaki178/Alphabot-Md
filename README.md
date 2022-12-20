@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://id.pinterest.com/pin/588775351302946513#imgViewer" alt="ALPHA BOT" width="100"/>
 
 
 </p>
